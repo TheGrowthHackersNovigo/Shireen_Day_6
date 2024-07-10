@@ -2,7 +2,7 @@
   "name": "Day6_Assignments",
   "projectId": "51663ecc-1242-42fe-acf1-1e98bb5c3eb2",
   "description": "Assignments on Debugging in studio,error handling,workflow analyzer",
-  "main": "Main.xaml",
+  "main": "Question1\\Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
     "UiPath.Mail.Activities": "[1.23.1]",
@@ -49,8 +49,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "43cc8e6e-9dda-4df8-baaf-568d377d5090",
+      "filePath": "Question1\\Main.xaml",
+      "uniqueId": "d07cccaf-3823-4950-ad38-310d4bb2dc69",
       "input": [],
       "output": []
     }
